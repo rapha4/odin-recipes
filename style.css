@@ -1,0 +1,26 @@
+body {
+ background-color: rgb(240,149,55);
+ color: white;
+ text-align: center;
+}
+
+h1 {
+ font-family: poppins, helvetica, sans-serif;
+ font-size: 40px;
+}
+
+.button {
+ text-align: center;
+ border: none;
+ background-color: white;
+ padding: 8px 12px;
+ font-size: 0.9em;
+ border-radius: 10px;
+ display: inline;
+}
+
+.text {
+ font-family: helvetica;
+ font-size: 16px;
+}
+
